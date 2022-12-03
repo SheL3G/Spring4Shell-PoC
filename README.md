@@ -47,7 +47,7 @@ You should access to it Here: http://localhost:8080/helloworld/greeting
 Run the Python PoC
 
 ```python
-python3 Spring4Shell.py http://localhost:8080/helloworld/greeting
+python3 Spring4Shell.py http://localhost:8080/
 ```
 
 After that RCE (webshell) will pop up on your terminal (if the machine is vulnerable)
