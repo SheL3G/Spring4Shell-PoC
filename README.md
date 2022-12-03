@@ -23,7 +23,7 @@ git clone https://github.com/SheL3G/Spring4Shell-PoC.git
 Change directory
 
 ```bash
-cd /Spring4Shell-PoC/
+cd Spring4Shell-PoC/
 ```
 
 Download the python requirements
