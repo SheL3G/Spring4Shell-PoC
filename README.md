@@ -50,7 +50,7 @@ Run the Python PoC
 python3 Spring4Shell.py http://localhost:8080/
 ```
 
-After that RCE (webshell) will pop up on your terminal (if the machine is vulnerable)
+And a link to the WebShell will appear in your terminal (if the machine is vulnerable)
 
 ## Credits
 
